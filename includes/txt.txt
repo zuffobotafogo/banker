@@ -1,0 +1,23 @@
+1 tabela
+
+numero
+
+andar
+
+tamanho
+
+disponibilidade (SIM OU NAO)
+
+pessoa (Usuario)
+
+ 
+
+ 
+
+ 
+
+2 tabela
+
+admistradores
+
+quem pode admistrar
